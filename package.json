@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@nodebug/logger": "1.0.0",
-    "rc": "^1.2.8"
+    "@nodebug/config": "1.0.0"
   },
   "description": "boiler plate for nodejs projects",
   "homepage": "https://github.com/node-bug/boilerplatejs#readme",
